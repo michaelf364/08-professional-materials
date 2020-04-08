@@ -1,0 +1,31 @@
+h1{
+    color: darkcyan ;
+}
+button:active {
+    background-color: darkcyan;
+    border: darkcyan;
+}
+button:default {
+    background-color: darkcyan;
+    border: darkcyan;
+}
+button:enabled {
+    background-color: darkcyan;
+    border: darkcyan;
+}
+button:hover {
+    background-color: darkcyan;
+    border: darkcyan;
+}
+button: {
+    background-color: darkcyan;
+    border: darkcyan;
+}
+body{
+    background-color: darkgrey;
+}
+main{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
