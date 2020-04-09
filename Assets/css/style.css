@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+body{
+    background-color: lightgray;
+}
+#main{
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+}
 h1{
     color: darkcyan ;
+    font-family: 'Noto Serif', serif;
+}
+button {
+    background-color: darkcyan;
+    border: darkcyan;
 }
 button:active {
     background-color: darkcyan;
@@ -17,15 +32,27 @@ button:hover {
     background-color: darkcyan;
     border: darkcyan;
 }
-button: {
-    background-color: darkcyan;
-    border: darkcyan;
-}
-body{
+.h-divider{
+    height: 2px;
     background-color: darkgrey;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
-main{
-    background-color: white;
-    margin: 10px;
+.navbar .v-divider{
+    width: 1px;
+    border-left: 0.5px solid lightgray;
+    margin: 0 9px;
+}
+.navbar-brand{
+    background-color: darkcyan;
+    color: white;
     padding: 10px;
+    margin: -10px 0px;
+}
+.navbar h1{
+    height: 40;
+    color: white;
+}
+.nav-link{
+    color: darkgray;
 }
