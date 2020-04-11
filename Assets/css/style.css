@@ -14,12 +14,12 @@ main{
     background-color: white;
 }
 .nav-item{
-    margin: -10px -0px;
+    color: white;
 }
 .navbar-brand{
-    margin: -10px -0px;
+    color: white;
 }
-h1{
+h2{
     color: white;
 }
 label{
@@ -28,10 +28,13 @@ label{
 .h-divider{
     height: 2px;
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     background-color: white;
 }
 img{
-    height: 150px;
-    width: 150px;
+    height: 325px;
+    width: 325px;
+    margin-right: 10px;
+    margin-left: -10px;
+    border-radius: 33%;
 }
