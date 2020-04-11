@@ -3,7 +3,7 @@
 body{
     font-family: 'Noto Serif', serif;
 }
-#main{
+main{
     margin: 20px;
     padding: 10px;
 }
@@ -30,4 +30,8 @@ label{
     margin-top: 5px;
     margin-bottom: 5px;
     background-color: white;
+}
+img{
+    height: 150px;
+    width: 150px;
 }
