@@ -1,20 +1,21 @@
-#### Table of Contents
+## Table of Contents
 
 [Portfolio](#Portfolio)
 [Technology-Used](#Technology-Used)
+[Screenshots](#Screenshots)
 
-# Portfolio
+### Portfolio
 
 This is a responsive website built to host my repository in the future.
 
-## Technology Used
+### Technology Used
 
 * HTML
 * CSS
 * themed bootstrap from [bootswatch](https://bootswatch.com/slate/)
 * favicon from [favicon.io](https://favicon.io/favicon-generator)
 
-## Screenshots
+### Screenshots
 |Contact|Index|Portfolio|
 |---|---|---|
 | ![640-contact](./Assets/Images/640-contact.jpg) | ![640-index](./Assets/Images/640-index.jpg) | ![640-portfolio](./Assets/Images/640-portfolio.jpg) |
