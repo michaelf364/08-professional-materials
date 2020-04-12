@@ -1,7 +1,9 @@
 ## Table of Contents
 
 [Portfolio](#Portfolio)
+
 [Technology-Used](#Technology-Used)
+
 [Screenshots](#Screenshots)
 
 ### Portfolio
