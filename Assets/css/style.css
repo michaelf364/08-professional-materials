@@ -3,9 +3,10 @@
 body{
     font-family: 'Noto Serif', serif;
 }
-main{
-    margin: 20px;
+.container{
     padding: 10px;
+    margin-left: 20px;
+    margin-right: auto;
 }
 .h-divider{
     height: 2px;
@@ -22,6 +23,11 @@ main{
 h2{
     color: white;
 }
+h5.card-title{
+    color: white;
+    padding: 10px;
+    padding-right: 20px;
+}
 label{
     color: white;
 }
@@ -29,12 +35,26 @@ label{
     height: 2px;
     margin-top: 5px;
     margin-bottom: 15px;
+    margin-left: -10px;
     background-color: white;
 }
 img{
-    height: 325px;
-    width: 325px;
     margin-right: 10px;
-    margin-left: -10px;
     border-radius: 33%;
+}
+@media (min-width: 980px) {
+    .container{
+        max-width: 50%;
+        margin-left: 20px;
+    }
+}
+@media (max-width: 640px) {
+    img{
+        align-self: center;
+    }
+}
+@media (min-width: 768px) {
+    .container{
+        margin-left: 10px;
+    }
 }
