@@ -54,10 +54,13 @@ label{
     background-color: white;
 }
 img{
-    margin-right: 10px;
     border-radius: 33%;
     height: 300px;
     width: 300px;
+}
+a#card{
+    margin-top: 10px;
+    margin-left: 10px;
 }
 .card-img-overlay{
     padding: 0px;
